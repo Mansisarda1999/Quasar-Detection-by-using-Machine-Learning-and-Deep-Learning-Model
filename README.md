@@ -5,4 +5,4 @@ Quasar is an extremely rare class of object and of utmost scientific importance.
 that reduces the error of classifying a Quasar as Non Quasar object that is a model with reduced FNR for Quasar objects.
 To study all the features provided by the different data releases of Sloan Digital Sky Survey useful for classifying Quasar.
 For better understanding please refer my blog :
-https://medium.com/analytics-vidhya/quasar-detection-by-using-machine-learning-and-deep-learning-model-6a33afb37a9b
+https://medium.com/analytics-vidhya/quasar-detection-using-machine-learning-and-deep-learning-model-6e4b31683208
